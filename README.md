@@ -1,4 +1,4 @@
-Hi, I’m @jack-hermanson, a student developer and hobbyist.
+Hi, I’m @jack-hermanson, a developer by trade and hobby.
 
 I'm interested in:
 
